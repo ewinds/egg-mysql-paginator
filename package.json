@@ -46,12 +46,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-mysql-paginator.git"
+    "url": "git+https://github.com/ewinds/egg-mysql-paginator.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/ewinds/egg/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-mysql-paginator#readme",
+  "homepage": "https://github.com/ewinds/egg-mysql-paginator#readme",
   "author": "ewinds",
   "license": "MIT"
 }
