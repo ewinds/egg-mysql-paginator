@@ -3,5 +3,6 @@
 const paginator = require("./lib/paginator");
 
 module.exports = app => {
-  paginator(app);
+  app.mysqlPaginator = paginator(app);
+  app.coreLogger.info(`[egg-mysql-paginator] is ready`);
 };
