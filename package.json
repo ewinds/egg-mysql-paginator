@@ -1,6 +1,6 @@
 {
   "name": "egg-mysql-paginator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MySQL paginator plugin for egg",
   "eggPlugin": {
     "name": "mysqlPaginator",
@@ -39,7 +39,12 @@
     "autod": "autod"
   },
   "files": [
-    "config"
+    "index.js",
+    "app.js",
+    "agent.js",
+    "config",
+    "app",
+    "lib"
   ],
   "ci": {
     "version": "8, 10"
