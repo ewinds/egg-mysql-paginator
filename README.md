@@ -72,7 +72,7 @@ const results = await app.mysqlPaginator.query('posts',{
 });
 ```
 
-### customized order by
+### Customized order by
 
 ```javascript
 const results = await app.mysqlPaginator.query('posts',{
